@@ -1,1 +1,1 @@
-# config-repo2
+# Java架构师直通车
