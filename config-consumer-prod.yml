@@ -4,3 +4,5 @@ info:
 
 name: Lucy Prod
 words: 'Hello Lucy Prod'
+
+food: '{cipher}a729e360d9ec1e8dbfca84b8fe8c220af2bd0adb5433d34251cfcf88a9c054f4'
